@@ -1,0 +1,76 @@
+.logo{
+  height: 30px;
+}
+body{
+  background-color: #efefef;
+}
+h1{
+  background-color: #43281c;
+  height: 60px;
+  color:#fbf2c0;
+  font-size: x-large;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.item{
+  color: maroon;
+  background-color: rgb(226, 208, 184);
+  height: 400px;
+  width: 900px;
+  padding-left: 35px;
+  float: left;
+  padding-top: 20px;
+  border-radius: 35px;
+}
+.drink{
+  color: black;
+  
+}
+.input{
+  position: relative;
+  margin-bottom: 30px;
+}
+.rightside{
+  background-color: rgb(223, 205, 183);
+  color:maroon;
+  height: 150px;
+  border-radius: 35px;
+  font-size: medium;
+  padding-left: 20px;
+  float: right;
+  width: 800px;
+}
+.pay{
+  height: 250px;
+}
+.write{
+  background-color: white;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 35px;
+  font-size: 20px;
+}
+.rec{
+  position: absolute;
+  left: 30px;
+  padding: 0 2px;
+}
+.buttons{
+  background-color: #e2cbb4;
+  border: none;
+  width: 100%;
+  border-radius: 35px;
+}
+.table{
+  flex-direction: column;
+  align-items: center;
+}
+
+.table2{
+  width: 100%;
+  max-width: 600px;
+  margin-left: 700px;
+  margin-bottom: 20px;
+  margin-top: 700px;
+}
